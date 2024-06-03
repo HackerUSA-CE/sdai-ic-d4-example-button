@@ -4,6 +4,7 @@ Here's the original code if desired.
 
 HTML:
 
+```
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -18,10 +19,11 @@ HTML:
     </section>
   </body>
 </html>
-
+```
 
 CSS: 
 
+```
 .button {
     padding: .6rem .85rem;
     border: 2px solid #007bff;
@@ -32,3 +34,4 @@ CSS:
     display: inline-block;
     text-decoration: none;
 }
+```
